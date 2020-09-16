@@ -4,7 +4,7 @@ Recipe Fetching App
 
 ## Installation
 
-Use npm to install the server dependencies.
+Use the terminal to install the server dependencies.
 
 ```bash
 npm install
