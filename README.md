@@ -1,6 +1,8 @@
 # Recipiata
 Fetches up the recipes of food items, renders it and allows us to customize ingredients list as per the amount of food to be cooked.
 
+API: https://forkify-api.herokuapp.com/v2
+
 ## Installation
 `npm install`
 
